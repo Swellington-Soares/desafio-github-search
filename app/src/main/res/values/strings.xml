@@ -2,4 +2,5 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="ex_failed_get_repository">Não é possível recuperar a lista de repositório no momento.</string>
 </resources>
